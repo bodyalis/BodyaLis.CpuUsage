@@ -1,0 +1,12 @@
+C:\Users\Bogdan.Listopad\RiderProjects\CpuUsage\CpuUsage.Benchmark\bin\Release\net8.0\CpuUsage.Benchmark-DefaultJob-1\bin\Release\net8.0\CpuUsage.Core.deps.json
+C:\Users\Bogdan.Listopad\RiderProjects\CpuUsage\CpuUsage.Benchmark\bin\Release\net8.0\CpuUsage.Benchmark-DefaultJob-1\bin\Release\net8.0\CpuUsage.Core.dll
+C:\Users\Bogdan.Listopad\RiderProjects\CpuUsage\CpuUsage.Benchmark\bin\Release\net8.0\CpuUsage.Benchmark-DefaultJob-1\bin\Release\net8.0\CpuUsage.Core.pdb
+C:\Users\Bogdan.Listopad\RiderProjects\CpuUsage\CpuUsage.Benchmark\bin\Release\net8.0\CpuUsage.Benchmark-DefaultJob-1\obj\CpuUsage.Core\release\CpuUsage.Core.csproj.AssemblyReference.cache
+C:\Users\Bogdan.Listopad\RiderProjects\CpuUsage\CpuUsage.Benchmark\bin\Release\net8.0\CpuUsage.Benchmark-DefaultJob-1\obj\CpuUsage.Core\release\CpuUsage.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bogdan.Listopad\RiderProjects\CpuUsage\CpuUsage.Benchmark\bin\Release\net8.0\CpuUsage.Benchmark-DefaultJob-1\obj\CpuUsage.Core\release\CpuUsage.Core.AssemblyInfoInputs.cache
+C:\Users\Bogdan.Listopad\RiderProjects\CpuUsage\CpuUsage.Benchmark\bin\Release\net8.0\CpuUsage.Benchmark-DefaultJob-1\obj\CpuUsage.Core\release\CpuUsage.Core.AssemblyInfo.cs
+C:\Users\Bogdan.Listopad\RiderProjects\CpuUsage\CpuUsage.Benchmark\bin\Release\net8.0\CpuUsage.Benchmark-DefaultJob-1\obj\CpuUsage.Core\release\CpuUsage.Core.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan.Listopad\RiderProjects\CpuUsage\CpuUsage.Benchmark\bin\Release\net8.0\CpuUsage.Benchmark-DefaultJob-1\obj\CpuUsage.Core\release\CpuUsage.Core.dll
+C:\Users\Bogdan.Listopad\RiderProjects\CpuUsage\CpuUsage.Benchmark\bin\Release\net8.0\CpuUsage.Benchmark-DefaultJob-1\obj\CpuUsage.Core\release\refint\CpuUsage.Core.dll
+C:\Users\Bogdan.Listopad\RiderProjects\CpuUsage\CpuUsage.Benchmark\bin\Release\net8.0\CpuUsage.Benchmark-DefaultJob-1\obj\CpuUsage.Core\release\CpuUsage.Core.pdb
+C:\Users\Bogdan.Listopad\RiderProjects\CpuUsage\CpuUsage.Benchmark\bin\Release\net8.0\CpuUsage.Benchmark-DefaultJob-1\obj\CpuUsage.Core\release\ref\CpuUsage.Core.dll

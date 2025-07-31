@@ -1,0 +1,4 @@
+// Validating benchmarks:
+// Benchmark CpuUsageCoreBenchmark.MeasureCurrentProcessUsage: DefaultJob
+//    * BenchmarkDotNet requires dotnet SDK to be installed or path to local dotnet cli provided in explicit way using `--cli` argument, benchmark 'CpuUsageCoreBenchmark.MeasureCurrentProcessUsage: DefaultJob' will not be executed
+

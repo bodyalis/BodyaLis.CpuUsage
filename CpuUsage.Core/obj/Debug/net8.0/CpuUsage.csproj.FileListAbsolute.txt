@@ -1,0 +1,12 @@
+C:\Users\Bogdan.Listopad\RiderProjects\CpuUsage\CpuUsage\obj\Debug\net8.0\CpuUsage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bogdan.Listopad\RiderProjects\CpuUsage\CpuUsage\obj\Debug\net8.0\CpuUsage.AssemblyInfoInputs.cache
+C:\Users\Bogdan.Listopad\RiderProjects\CpuUsage\CpuUsage\obj\Debug\net8.0\CpuUsage.AssemblyInfo.cs
+C:\Users\Bogdan.Listopad\RiderProjects\CpuUsage\CpuUsage\obj\Debug\net8.0\CpuUsage.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan.Listopad\RiderProjects\CpuUsage\CpuUsage\bin\Debug\net8.0\CpuUsage.deps.json
+C:\Users\Bogdan.Listopad\RiderProjects\CpuUsage\CpuUsage\bin\Debug\net8.0\CpuUsage.dll
+C:\Users\Bogdan.Listopad\RiderProjects\CpuUsage\CpuUsage\bin\Debug\net8.0\CpuUsage.pdb
+C:\Users\Bogdan.Listopad\RiderProjects\CpuUsage\CpuUsage\obj\Debug\net8.0\CpuUsage.csproj.AssemblyReference.cache
+C:\Users\Bogdan.Listopad\RiderProjects\CpuUsage\CpuUsage\obj\Debug\net8.0\CpuUsage.dll
+C:\Users\Bogdan.Listopad\RiderProjects\CpuUsage\CpuUsage\obj\Debug\net8.0\refint\CpuUsage.dll
+C:\Users\Bogdan.Listopad\RiderProjects\CpuUsage\CpuUsage\obj\Debug\net8.0\CpuUsage.pdb
+C:\Users\Bogdan.Listopad\RiderProjects\CpuUsage\CpuUsage\obj\Debug\net8.0\ref\CpuUsage.dll

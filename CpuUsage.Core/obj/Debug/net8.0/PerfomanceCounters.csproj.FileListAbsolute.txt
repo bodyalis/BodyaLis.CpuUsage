@@ -1,0 +1,12 @@
+C:\Users\Bogdan.Listopad\RiderProjects\PerfCounters2\PerfomanceCounters\bin\Debug\net8.0\PerfomanceCounters.deps.json
+C:\Users\Bogdan.Listopad\RiderProjects\PerfCounters2\PerfomanceCounters\bin\Debug\net8.0\PerfomanceCounters.dll
+C:\Users\Bogdan.Listopad\RiderProjects\PerfCounters2\PerfomanceCounters\bin\Debug\net8.0\PerfomanceCounters.pdb
+C:\Users\Bogdan.Listopad\RiderProjects\PerfCounters2\PerfomanceCounters\obj\Debug\net8.0\PerfomanceCounters.csproj.AssemblyReference.cache
+C:\Users\Bogdan.Listopad\RiderProjects\PerfCounters2\PerfomanceCounters\obj\Debug\net8.0\PerfomanceCounters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bogdan.Listopad\RiderProjects\PerfCounters2\PerfomanceCounters\obj\Debug\net8.0\PerfomanceCounters.AssemblyInfoInputs.cache
+C:\Users\Bogdan.Listopad\RiderProjects\PerfCounters2\PerfomanceCounters\obj\Debug\net8.0\PerfomanceCounters.AssemblyInfo.cs
+C:\Users\Bogdan.Listopad\RiderProjects\PerfCounters2\PerfomanceCounters\obj\Debug\net8.0\PerfomanceCounters.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan.Listopad\RiderProjects\PerfCounters2\PerfomanceCounters\obj\Debug\net8.0\PerfomanceCounters.dll
+C:\Users\Bogdan.Listopad\RiderProjects\PerfCounters2\PerfomanceCounters\obj\Debug\net8.0\refint\PerfomanceCounters.dll
+C:\Users\Bogdan.Listopad\RiderProjects\PerfCounters2\PerfomanceCounters\obj\Debug\net8.0\PerfomanceCounters.pdb
+C:\Users\Bogdan.Listopad\RiderProjects\PerfCounters2\PerfomanceCounters\obj\Debug\net8.0\ref\PerfomanceCounters.dll

@@ -1,0 +1,17 @@
+C:\Users\Bogdan.Listopad\RiderProjects\PerfCounters2\PerfCounters2\bin\Debug\net8.0\PerfCounters2.exe
+C:\Users\Bogdan.Listopad\RiderProjects\PerfCounters2\PerfCounters2\bin\Debug\net8.0\PerfCounters2.deps.json
+C:\Users\Bogdan.Listopad\RiderProjects\PerfCounters2\PerfCounters2\bin\Debug\net8.0\PerfCounters2.runtimeconfig.json
+C:\Users\Bogdan.Listopad\RiderProjects\PerfCounters2\PerfCounters2\bin\Debug\net8.0\PerfCounters2.dll
+C:\Users\Bogdan.Listopad\RiderProjects\PerfCounters2\PerfCounters2\bin\Debug\net8.0\PerfCounters2.pdb
+C:\Users\Bogdan.Listopad\RiderProjects\PerfCounters2\PerfCounters2\obj\Debug\net8.0\PerfCounters2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bogdan.Listopad\RiderProjects\PerfCounters2\PerfCounters2\obj\Debug\net8.0\PerfCounters2.AssemblyInfoInputs.cache
+C:\Users\Bogdan.Listopad\RiderProjects\PerfCounters2\PerfCounters2\obj\Debug\net8.0\PerfCounters2.AssemblyInfo.cs
+C:\Users\Bogdan.Listopad\RiderProjects\PerfCounters2\PerfCounters2\obj\Debug\net8.0\PerfCounters2.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan.Listopad\RiderProjects\PerfCounters2\PerfCounters2\obj\Debug\net8.0\PerfCounters2.dll
+C:\Users\Bogdan.Listopad\RiderProjects\PerfCounters2\PerfCounters2\obj\Debug\net8.0\refint\PerfCounters2.dll
+C:\Users\Bogdan.Listopad\RiderProjects\PerfCounters2\PerfCounters2\obj\Debug\net8.0\PerfCounters2.pdb
+C:\Users\Bogdan.Listopad\RiderProjects\PerfCounters2\PerfCounters2\obj\Debug\net8.0\PerfCounters2.genruntimeconfig.cache
+C:\Users\Bogdan.Listopad\RiderProjects\PerfCounters2\PerfCounters2\obj\Debug\net8.0\ref\PerfCounters2.dll
+C:\Users\Bogdan.Listopad\RiderProjects\PerfCounters2\PerfCounters2\obj\Debug\net8.0\PerfCounters2.csproj.AssemblyReference.cache
+C:\Users\Bogdan.Listopad\RiderProjects\PerfCounters2\PerfCounters2\bin\Debug\net8.0\Ardalis.Result.dll
+C:\Users\Bogdan.Listopad\RiderProjects\PerfCounters2\PerfCounters2\obj\Debug\net8.0\PerfCoun.7FA17AB1.Up2Date

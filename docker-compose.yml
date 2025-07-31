@@ -1,0 +1,12 @@
+﻿services:
+  perfcounters2:
+    image: perfcounters
+    build:
+      context: .
+      dockerfile: CpuUsage.LoadSimulations/Dockerfile
+
+  CpuUsage.loadsimulations:
+    image: CpuUsage.loadsimulations
+    build:
+      context: .
+      dockerfile: CpuUsage.LoadSimulations/Dockerfile

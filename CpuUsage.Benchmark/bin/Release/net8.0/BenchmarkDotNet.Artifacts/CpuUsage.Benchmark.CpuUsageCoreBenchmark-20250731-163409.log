@@ -1,0 +1,83 @@
+// Validating benchmarks:
+// ***** BenchmarkRunner: Start   *****
+// ***** Found 1 benchmark(s) in total *****
+// ***** Building 1 exe(s) in Parallel: Start   *****
+// start dotnet  restore /p:UseSharedCompilation=false /p:BuildInParallel=false /m:1 /p:Deterministic=true /p:Optimize=true /p:ArtifactsPath="C:\Users\Bogdan.Listopad\RiderProjects\CpuUsage\CpuUsage.Benchmark\bin\Release\net8.0\CpuUsage.Benchmark-DefaultJob-1/" /p:OutDir="C:\Users\Bogdan.Listopad\RiderProjects\CpuUsage\CpuUsage.Benchmark\bin\Release\net8.0\CpuUsage.Benchmark-DefaultJob-1\bin\Release\net8.0/" /p:OutputPath="C:\Users\Bogdan.Listopad\RiderProjects\CpuUsage\CpuUsage.Benchmark\bin\Release\net8.0\CpuUsage.Benchmark-DefaultJob-1\bin\Release\net8.0/" /p:PublishDir="C:\Users\Bogdan.Listopad\RiderProjects\CpuUsage\CpuUsage.Benchmark\bin\Release\net8.0\CpuUsage.Benchmark-DefaultJob-1\publish/" in C:\Users\Bogdan.Listopad\RiderProjects\CpuUsage\CpuUsage.Benchmark\bin\Release\net8.0\CpuUsage.Benchmark-DefaultJob-1
+// command took 1.37 sec and exited with 0
+// start dotnet  build -c Release --no-restore /p:UseSharedCompilation=false /p:BuildInParallel=false /m:1 /p:Deterministic=true /p:Optimize=true /p:ArtifactsPath="C:\Users\Bogdan.Listopad\RiderProjects\CpuUsage\CpuUsage.Benchmark\bin\Release\net8.0\CpuUsage.Benchmark-DefaultJob-1/" /p:OutDir="C:\Users\Bogdan.Listopad\RiderProjects\CpuUsage\CpuUsage.Benchmark\bin\Release\net8.0\CpuUsage.Benchmark-DefaultJob-1\bin\Release\net8.0/" /p:OutputPath="C:\Users\Bogdan.Listopad\RiderProjects\CpuUsage\CpuUsage.Benchmark\bin\Release\net8.0\CpuUsage.Benchmark-DefaultJob-1\bin\Release\net8.0/" /p:PublishDir="C:\Users\Bogdan.Listopad\RiderProjects\CpuUsage\CpuUsage.Benchmark\bin\Release\net8.0\CpuUsage.Benchmark-DefaultJob-1\publish/" --output "C:\Users\Bogdan.Listopad\RiderProjects\CpuUsage\CpuUsage.Benchmark\bin\Release\net8.0\CpuUsage.Benchmark-DefaultJob-1\bin\Release\net8.0/" in C:\Users\Bogdan.Listopad\RiderProjects\CpuUsage\CpuUsage.Benchmark\bin\Release\net8.0\CpuUsage.Benchmark-DefaultJob-1
+// command took 6.16 sec and exited with 0
+// ***** Done, took 00:00:07 (7.59 sec)   *****
+// Found 1 benchmarks:
+//   CpuUsageCoreBenchmark.MeasureCurrentProcessUsage: DefaultJob
+
+Setup power plan (GUID: 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c FriendlyName: Высокая производительность)
+// **************************
+// Benchmark: CpuUsageCoreBenchmark.MeasureCurrentProcessUsage: DefaultJob
+// *** Execute ***
+// Launch: 1 / 1
+// Execute: dotnet CpuUsage.Benchmark-DefaultJob-1.dll --anonymousPipes 1256 1372 --benchmarkName CpuUsage.Benchmark.CpuUsageCoreBenchmark.MeasureCurrentProcessUsage --job Default --benchmarkId 0 in C:\Users\Bogdan.Listopad\RiderProjects\CpuUsage\CpuUsage.Benchmark\bin\Release\net8.0\CpuUsage.Benchmark-DefaultJob-1\bin\Release\net8.0
+// BeforeAnythingElse
+
+// Benchmark Process Environment Information:
+// BenchmarkDotNet v0.15.2
+// Runtime=.NET 8.0.18 (8.0.1825.31117), X64 RyuJIT AVX2
+// GC=Concurrent Workstation
+// HardwareIntrinsics=AVX2,AES,BMI1,BMI2,FMA,LZCNT,PCLMUL,POPCNT VectorSize=256
+// Job: DefaultJob
+
+OverheadJitting  1: 1 op, 86200.00 ns, 86.2000 us/op
+WorkloadJitting  1: 1 op, 6107800.00 ns, 6.1078 ms/op
+
+OverheadJitting  2: 16 op, 172100.00 ns, 10.7563 us/op
+WorkloadJitting  2: 16 op, 79760400.00 ns, 4.9850 ms/op
+
+WorkloadPilot    1: 16 op, 81351400.00 ns, 5.0845 ms/op
+WorkloadPilot    2: 32 op, 155499800.00 ns, 4.8594 ms/op
+WorkloadPilot    3: 64 op, 337579100.00 ns, 5.2747 ms/op
+WorkloadPilot    4: 128 op, 643731400.00 ns, 5.0292 ms/op
+
+OverheadWarmup   1: 128 op, 2400.00 ns, 18.7500 ns/op
+OverheadWarmup   2: 128 op, 500.00 ns, 3.9063 ns/op
+OverheadWarmup   3: 128 op, 500.00 ns, 3.9063 ns/op
+OverheadWarmup   4: 128 op, 500.00 ns, 3.9063 ns/op
+OverheadWarmup   5: 128 op, 1000.00 ns, 7.8125 ns/op
+OverheadWarmup   6: 128 op, 600.00 ns, 4.6875 ns/op
+
+OverheadActual   1: 128 op, 600.00 ns, 4.6875 ns/op
+OverheadActual   2: 128 op, 600.00 ns, 4.6875 ns/op
+OverheadActual   3: 128 op, 600.00 ns, 4.6875 ns/op
+OverheadActual   4: 128 op, 500.00 ns, 3.9063 ns/op
+OverheadActual   5: 128 op, 600.00 ns, 4.6875 ns/op
+OverheadActual   6: 128 op, 700.00 ns, 5.4688 ns/op
+OverheadActual   7: 128 op, 500.00 ns, 3.9063 ns/op
+OverheadActual   8: 128 op, 500.00 ns, 3.9063 ns/op
+OverheadActual   9: 128 op, 500.00 ns, 3.9063 ns/op
+OverheadActual  10: 128 op, 500.00 ns, 3.9063 ns/op
+OverheadActual  11: 128 op, 500.00 ns, 3.9063 ns/op
+OverheadActual  12: 128 op, 500.00 ns, 3.9063 ns/op
+OverheadActual  13: 128 op, 600.00 ns, 4.6875 ns/op
+OverheadActual  14: 128 op, 600.00 ns, 4.6875 ns/op
+OverheadActual  15: 128 op, 700.00 ns, 5.4688 ns/op
+OverheadActual  16: 128 op, 700.00 ns, 5.4688 ns/op
+OverheadActual  17: 128 op, 500.00 ns, 3.9063 ns/op
+OverheadActual  18: 128 op, 500.00 ns, 3.9063 ns/op
+OverheadActual  19: 128 op, 600.00 ns, 4.6875 ns/op
+OverheadActual  20: 128 op, 600.00 ns, 4.6875 ns/op
+
+OverheadWarmup   1: 128 op, 700.00 ns, 5.4688 ns/op
+OverheadWarmup   2: 128 op, 600.00 ns, 4.6875 ns/op
+OverheadWarmup   3: 128 op, 700.00 ns, 5.4688 ns/op
+OverheadWarmup   4: 128 op, 500.00 ns, 3.9063 ns/op
+OverheadWarmup   5: 128 op, 500.00 ns, 3.9063 ns/op
+OverheadWarmup   6: 128 op, 400.00 ns, 3.1250 ns/op
+
+// BeforeActualRun
+WorkloadActual   1: 128 op, 664896600.00 ns, 5.1945 ms/op
+WorkloadActual   2: 128 op, 628223300.00 ns, 4.9080 ms/op
+WorkloadActual   3: 128 op, 619449800.00 ns, 4.8395 ms/op
+WorkloadActual   4: 128 op, 628798500.00 ns, 4.9125 ms/op
+WorkloadActual   5: 128 op, 644938800.00 ns, 5.0386 ms/op
+WorkloadActual   6: 128 op, 672205300.00 ns, 5.2516 ms/op
+WorkloadActual   7: 128 op, 671209000.00 ns, 5.2438 ms/op
+WorkloadActual   8: 128 op, 662801700.00 ns, 5.1781 ms/op
+Successfully reverted power plan (GUID: 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c FriendlyName: Высокая производительность)

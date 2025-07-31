@@ -1,0 +1,12 @@
+C:\Users\Bogdan.Listopad\RiderProjects\CpuUsage\CpuUsage.Core\bin\Release\net8.0\CpuUsage.Core.deps.json
+C:\Users\Bogdan.Listopad\RiderProjects\CpuUsage\CpuUsage.Core\bin\Release\net8.0\CpuUsage.Core.dll
+C:\Users\Bogdan.Listopad\RiderProjects\CpuUsage\CpuUsage.Core\bin\Release\net8.0\CpuUsage.Core.pdb
+C:\Users\Bogdan.Listopad\RiderProjects\CpuUsage\CpuUsage.Core\obj\Release\net8.0\CpuUsage.Core.csproj.AssemblyReference.cache
+C:\Users\Bogdan.Listopad\RiderProjects\CpuUsage\CpuUsage.Core\obj\Release\net8.0\CpuUsage.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bogdan.Listopad\RiderProjects\CpuUsage\CpuUsage.Core\obj\Release\net8.0\CpuUsage.Core.AssemblyInfoInputs.cache
+C:\Users\Bogdan.Listopad\RiderProjects\CpuUsage\CpuUsage.Core\obj\Release\net8.0\CpuUsage.Core.AssemblyInfo.cs
+C:\Users\Bogdan.Listopad\RiderProjects\CpuUsage\CpuUsage.Core\obj\Release\net8.0\CpuUsage.Core.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan.Listopad\RiderProjects\CpuUsage\CpuUsage.Core\obj\Release\net8.0\CpuUsage.Core.dll
+C:\Users\Bogdan.Listopad\RiderProjects\CpuUsage\CpuUsage.Core\obj\Release\net8.0\refint\CpuUsage.Core.dll
+C:\Users\Bogdan.Listopad\RiderProjects\CpuUsage\CpuUsage.Core\obj\Release\net8.0\CpuUsage.Core.pdb
+C:\Users\Bogdan.Listopad\RiderProjects\CpuUsage\CpuUsage.Core\obj\Release\net8.0\ref\CpuUsage.Core.dll
